@@ -1,0 +1,109 @@
+2025-07-08 16:42:59,500 - INFO - ====== WebDriver manager ======
+2025-07-08 16:43:01,302 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-08 16:43:03,021 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-08 16:43:04,660 - INFO - Driver [C:\Users\PC\.wdm\drivers\chromedriver\win64\109.0.5414.74\chromedriver.exe] found in cache
+2025-07-08 16:43:04,660 - ERROR - Initialization failed: WebDriver.__init__() got an unexpected keyword argument 'executable_path'
+2025-07-08 16:43:04,661 - ERROR - Pipeline execution failed: WebDriver.__init__() got an unexpected keyword argument 'executable_path'
+2025-07-08 17:26:21,415 - INFO - ====== WebDriver manager ======
+2025-07-08 17:26:25,660 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-08 17:26:27,726 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-08 17:26:29,285 - INFO - Driver [C:\Users\PC\.wdm\drivers\chromedriver\win64\109.0.5414.74\chromedriver.exe] found in cache
+2025-07-08 17:26:39,818 - ERROR - Initialization failed: Your currently installed version of Keras is Keras 3, but this is not yet supported in Transformers. Please install the backwards-compatible tf-keras package with `pip install tf-keras`.
+2025-07-08 17:26:39,833 - ERROR - Pipeline execution failed: Your currently installed version of Keras is Keras 3, but this is not yet supported in Transformers. Please install the backwards-compatible tf-keras package with `pip install tf-keras`.
+2025-07-08 23:00:13,465 - INFO - ====== WebDriver manager ======
+2025-07-08 23:00:15,453 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-08 23:00:16,181 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-08 23:00:16,493 - INFO - Driver [C:\Users\PC\.wdm\drivers\chromedriver\win64\109.0.5414.74\chromedriver.exe] found in cache
+2025-07-08 23:00:16,494 - ERROR - Initialization failed: WebDriver.__init__() got an unexpected keyword argument 'executable_path'
+2025-07-08 23:00:16,494 - ERROR - Pipeline execution failed: WebDriver.__init__() got an unexpected keyword argument 'executable_path'
+2025-07-09 00:25:47,478 - ERROR - Initialization failed: type object 'ChromeType' has no attribute 'GOOGLE'
+2025-07-09 00:25:47,479 - ERROR - Pipeline execution failed: 'EHDSAFProcessor' object has no attribute '_cleanup_resources'
+2025-07-09 00:31:48,094 - INFO - ====== WebDriver manager ======
+2025-07-09 00:31:50,053 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-09 00:31:50,787 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-09 00:31:51,147 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-09 00:31:51,437 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/109.0.5414.74/chromedriver_win32.zip
+2025-07-09 00:31:51,959 - INFO - Driver downloading response is 200
+2025-07-09 00:31:54,579 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-09 00:31:55,226 - INFO - Driver has been saved in cache [C:\Users\PC\.wdm\drivers\chromedriver\win64\109.0.5414.74]
+2025-07-09 00:31:57,530 - ERROR - Initialization failed: 'EHDSAFProcessor' object has no attribute '_init_nlp_models'
+2025-07-09 00:31:59,884 - ERROR - Pipeline execution failed: 'EHDSAFProcessor' object has no attribute '_init_nlp_models'
+2025-07-09 00:38:52,993 - INFO - ====== WebDriver manager ======
+2025-07-09 00:38:54,753 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-09 00:39:02,161 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-09 00:39:02,560 - INFO - Driver [C:\Users\PC\.wdm\drivers\chromedriver\win64\109.0.5414.74\chromedriver.exe] found in cache
+2025-07-09 00:39:11,816 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-07-09 00:45:52,072 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-07-09 00:45:57,098 - INFO - EHDSAF Processor initialized successfully
+2025-07-09 00:45:57,099 - INFO - Starting analysis of https://example.com
+2025-07-09 00:45:57,105 - ERROR - Scraping failed for https://example.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.168)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x003D6643]
+	(No symbol) [0x0036BE21]
+	(No symbol) [0x0026DA9D]
+	(No symbol) [0x0024EF6A]
+	(No symbol) [0x002C3AAB]
+	(No symbol) [0x002D61B6]
+	(No symbol) [0x002BFB76]
+	(No symbol) [0x002949C1]
+	(No symbol) [0x00295E5D]
+	GetHandleVerifier [0x0064A142+2497106]
+	GetHandleVerifier [0x006785D3+2686691]
+	GetHandleVerifier [0x0067BB9C+2700460]
+	GetHandleVerifier [0x00483B10+635936]
+	(No symbol) [0x00374A1F]
+	(No symbol) [0x0037A418]
+	(No symbol) [0x0037A505]
+	(No symbol) [0x0038508B]
+	BaseThreadInitThunk [0x75806A14+36]
+	RtlInitializeExceptionChain [0x77E4AB2F+143]
+	RtlInitializeExceptionChain [0x77E4AAFA+90]
+
+2025-07-09 00:45:57,107 - WARNING - No content scraped - check URL or network settings
+2025-07-09 00:45:59,350 - INFO - Resources cleaned up
+2025-07-09 01:25:11,321 - INFO - ====== WebDriver manager ======
+2025-07-09 01:25:13,210 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-09 01:25:13,704 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-09 01:25:13,999 - INFO - Driver [C:\Users\PC\.wdm\drivers\chromedriver\win64\109.0.5414.74\chromedriver.exe] found in cache
+2025-07-09 01:25:30,827 - INFO - EHDSAF Processor initialized successfully
+2025-07-09 01:25:30,828 - INFO - Starting analysis of https://example.com
+2025-07-09 01:25:34,073 - INFO - Found 3 content fragments
+2025-07-09 01:25:41,379 - INFO - Resources cleaned up
+2025-07-09 01:25:41,380 - ERROR - Pipeline execution failed: Missing optional dependency 'tabulate'.  Use pip or conda to install tabulate.
+2025-07-09 22:55:10,617 - INFO - ====== WebDriver manager ======
+2025-07-09 22:55:12,784 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-09 22:55:13,497 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-09 22:55:13,813 - INFO - Driver [C:\Users\PC\.wdm\drivers\chromedriver\win64\109.0.5414.74\chromedriver.exe] found in cache
+2025-07-09 22:55:29,184 - INFO - EHDSAF Processor initialized successfully
+2025-07-09 22:55:29,185 - INFO - Starting analysis of https://example.com
+2025-07-09 22:55:32,572 - INFO - Found 3 content fragments
+2025-07-09 22:55:40,657 - INFO - Resources cleaned up
+2025-07-09 22:55:40,659 - ERROR - Pipeline execution failed: Missing optional dependency 'tabulate'.  Use pip or conda to install tabulate.
+2025-07-09 23:00:38,043 - INFO - ====== WebDriver manager ======
+2025-07-09 23:00:40,046 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-09 23:00:40,626 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-09 23:00:40,930 - INFO - Driver [C:\Users\PC\.wdm\drivers\chromedriver\win64\109.0.5414.74\chromedriver.exe] found in cache
+2025-07-09 23:00:48,963 - INFO - EHDSAF Processor initialized successfully
+2025-07-09 23:00:48,964 - INFO - Starting analysis of https://example.com
+2025-07-09 23:00:52,146 - INFO - Found 3 content fragments
+2025-07-09 23:00:53,019 - INFO - Detection complete: 0 dark patterns found
+2025-07-09 23:00:55,389 - INFO - Resources cleaned up
+2025-07-10 17:23:12,165 - ERROR - Configuration loading failed. Create either:
+2025-07-10 17:23:12,214 - ERROR - 1. A .env file with blockchain credentials
+2025-07-10 17:23:12,214 - ERROR - 2. A blockchain_config.json file
+2025-07-10 17:23:12,214 - ERROR - System error: Missing configuration
+2025-07-17 17:24:44,169 - ERROR - Configuration loading failed. Create either:
+2025-07-17 17:24:44,182 - ERROR - 1. A .env file with blockchain credentials
+2025-07-17 17:24:44,183 - ERROR - 2. A blockchain_config.json file
+2025-07-17 17:24:44,183 - ERROR - System error: Missing configuration
+2025-07-17 17:31:24,757 - ERROR - Configuration loading failed. Create either:
+2025-07-17 17:31:24,758 - ERROR - 1. A .env file with blockchain credentials
+2025-07-17 17:31:24,758 - ERROR - 2. A blockchain_config.json file
+2025-07-17 17:31:24,758 - ERROR - System error: Missing configuration
+2025-07-17 17:38:20,493 - ERROR - Configuration loading failed. Create either:
+2025-07-17 17:38:20,493 - ERROR - 1. A .env file with blockchain credentials
+2025-07-17 17:38:20,493 - ERROR - 2. A blockchain_config.json file
+2025-07-17 17:38:20,494 - ERROR - System error: Missing configuration
