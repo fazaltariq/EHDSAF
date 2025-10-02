@@ -1,0 +1,34 @@
+Supply Chain Analysis Report
+==================================================
+
+1. Dataset Overview:
+- Total records: 100
+- Product types: 3 (haircare, skincare, cosmetics)
+- Suppliers: 5
+- Locations: 5 (Mumbai, Kolkata, Delhi, Bangalore, Chennai)
+
+2. Key Findings:
+
+Product Performance by Revenue:
+- skincare: $241,628.16
+- haircare: $174,455.39
+- cosmetics: $161,521.27
+
+Supplier Performance by Defect Rates (lower is better):
+- Supplier 1: 1.80% defect rate
+- Supplier 4: 2.34% defect rate
+- Supplier 2: 2.36% defect rate
+- Supplier 3: 2.47% defect rate
+- Supplier 5: 2.67% defect rate
+
+Transportation Modes by Average Shipping Time (days):
+- Road: 4.7 days
+- Air: 5.1 days
+- Rail: 6.6 days
+- Sea: 7.1 days
+
+3. Recommendations:
+- Focus on high-revenue products (skincare and haircare) for inventory optimization
+- Work with suppliers showing lower defect rates to improve product quality
+- Consider faster transportation modes for time-sensitive products despite higher costs
+- Analyze clusters of products to identify patterns in pricing, sales, and defects
